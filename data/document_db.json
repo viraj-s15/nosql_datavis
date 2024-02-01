@@ -1,0 +1,186 @@
+[ 
+ {
+    "policyNumber": "AB 123 123",
+    "policyAddress": "123 Road Street",
+    "holderName": "Joe Smith",
+    "vehicleID": "19UYA1234L000213",
+    "vehicleModel": "Coupe",
+    "vehicleYear": "2012"
+  },
+  {
+    "policyNumber": "ZN 987987",
+    "policyAddress": "42 Mill Crescent",
+    "holderName": "Chris Bloggs",
+    "vehicleID": "14PLU1234L120213",
+    "vehicleModel": "Estate",
+    "vehicleYear": "2007"
+  },
+  {
+    "policyNumber": "JP 456456",
+    "policyAddress": "12 Sample Street",
+    "holderName": "Michael Richards",
+    "vehicleID": "19UYA1234L000213",
+    "vehicleModel": "Coupe",
+    "vehicleYear": "2012"
+  },
+  {
+    "policyNumber": "XY 987654",
+    "policyAddress": "789 Park Avenue",
+    "holderName": "Alice Johnson",
+    "vehicleID": "JH4KB1650LC123456",
+    "vehicleModel": "Sedan",
+    "vehicleYear": "2018"
+  },
+  {
+    "policyNumber": "LM 456789",
+    "policyAddress": "55 Oak Lane",
+    "holderName": "David Anderson",
+    "vehicleID": "5XYZU3LB5KG123789",
+    "vehicleModel": "SUV",
+    "vehicleYear": "2015"
+  },
+  {
+    "policyNumber": "PO 789123",
+    "policyAddress": "8 Maple Street",
+    "holderName": "Emily White",
+    "vehicleID": "WAULC78EX7A123456",
+    "vehicleModel": "Convertible",
+    "vehicleYear": "2019"
+  },
+  {
+    "policyNumber": "QR 321654",
+    "policyAddress": "30 Pine Road",
+    "holderName": "John Davis",
+    "vehicleID": "1G1RD6E41EU123456",
+    "vehicleModel": "Hatchback",
+    "vehicleYear": "2014"
+  },
+  {
+    "policyNumber": "ST 987321",
+    "policyAddress": "15 Elm Street",
+    "holderName": "Sophie Martinez",
+    "vehicleID": "1HGCM82633A123456",
+    "vehicleModel": "Crossover",
+    "vehicleYear": "2017"
+  },
+  {
+    "policyNumber": "UV 654789",
+    "policyAddress": "21 Birch Avenue",
+    "holderName": "Robert Turner",
+    "vehicleID": "JTDKB20U877123456",
+    "vehicleModel": "Hybrid",
+    "vehicleYear": "2016"
+  },
+  {
+    "policyNumber": "WX 123456",
+    "policyAddress": "99 Cedar Drive",
+    "holderName": "Mia Lewis",
+    "vehicleID": "1GNSCBE07DR123456",
+    "vehicleModel": "Minivan",
+    "vehicleYear": "2020"
+  },
+  {
+    "policyNumber": "YZ 456789",
+    "policyAddress": "75 Walnut Lane",
+    "holderName": "Daniel Miller",
+    "vehicleID": "KM8SR4HF5DU123456",
+    "vehicleModel": "Truck",
+    "vehicleYear": "2013"
+  },
+  {
+    "policyNumber": "AB 987654",
+    "policyAddress": "18 Spruce Road",
+    "holderName": "Olivia Carter",
+    "vehicleID": "5TDKK3DC1ES123456",
+    "vehicleModel": "SUV",
+    "vehicleYear": "2021"
+  },
+  {
+    "policyNumber": "CD 654321",
+    "policyAddress": "63 Oak Avenue",
+    "holderName": "William White",
+    "vehicleID": "3C63RRGL7EG123456",
+    "vehicleModel": "Pickup",
+    "vehicleYear": "2012"
+  },
+  {
+    "policyNumber": "YZ 345678",
+    "policyAddress": "39 Oak Crescent",
+    "holderName": "Aiden Foster",
+    "vehicleID": "2T2BK1BA5BC789012",
+    "vehicleModel": "SUV",
+    "vehicleYear": "2016"
+  },
+  {
+    "policyNumber": "AB 901234",
+    "policyAddress": "11 Elm Lane",
+    "holderName": "Scarlett Adams",
+    "vehicleID": "WAUGNAF42CN456789",
+    "vehicleModel": "Convertible",
+    "vehicleYear": "2019"
+  },
+  {
+    "policyNumber": "CD 567890",
+    "policyAddress": "17 Pine Street",
+    "holderName": "Lucas Turner",
+    "vehicleID": "1FTFW1CF7EFA12345",
+    "vehicleModel": "Truck",
+    "vehicleYear": "2014"
+  },
+  {
+    "policyNumber": "EF 123012",
+    "policyAddress": "26 Cedar Avenue",
+    "holderName": "Madison Parker",
+    "vehicleID": "5XYZU3LA4EG678901",
+    "vehicleModel": "Sedan",
+    "vehicleYear": "2017"
+  },
+  {
+    "policyNumber": "GH 456789",
+    "policyAddress": "44 Maple Road",
+    "holderName": "Logan Harris",
+    "vehicleID": "1HGCR2F34FA234567",
+    "vehicleModel": "Hatchback",
+    "vehicleYear": "2015"
+  },
+  {
+    "policyNumber": "IJ 890123",
+    "policyAddress": "8 Birch Street",
+    "holderName": "Zoe Robinson",
+    "vehicleID": "1FA6P8TH4G5321567",
+    "vehicleModel": "Crossover",
+    "vehicleYear": "2018"
+  },
+  {
+    "policyNumber": "KL 234567",
+    "policyAddress": "21 Spruce Lane",
+    "holderName": "Carter Taylor",
+    "vehicleID": "WAUBFAFL9AN678901",
+    "vehicleModel": "Minivan",
+    "vehicleYear": "2020"
+  },
+  {
+    "policyNumber": "MN 890123",
+    "policyAddress": "6 Oak Road",
+    "holderName": "Hannah White",
+    "vehicleID": "1GNSKBE05BR123012",
+    "vehicleModel": "Hybrid",
+    "vehicleYear": "2021"
+  },
+  {
+    "policyNumber": "OP 456789",
+    "policyAddress": "32 Pine Avenue",
+    "holderName": "Elijah Brown",
+    "vehicleID": "3VWD07AJ5EM567890",
+    "vehicleModel": "SUV",
+    "vehicleYear": "2012"
+  },
+  {
+    "policyNumber": "QR 012345",
+    "policyAddress": "14 Cedar Street",
+    "holderName": "Leah Martinez",
+    "vehicleID": "5TDDKRFH4FS678901",
+    "vehicleModel": "Pickup",
+    "vehicleYear": "2013"
+  }
+]
